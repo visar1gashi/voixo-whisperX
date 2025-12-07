@@ -1,0 +1,4 @@
+runpod
+yt-dlp
+numpy
+soundfile
